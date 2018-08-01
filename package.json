@@ -1,0 +1,11 @@
+{
+  "name": "domelementhistory",
+  "version": "1.0.1",
+  "description": "Forward-Backward functionality given a certain DOM Element. Works like browser history but for a specific element without reloading the window.",
+  "main": "DOMElementHistory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brewknight",
+  "license": "ISC"
+}
